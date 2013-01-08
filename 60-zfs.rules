@@ -72,7 +72,7 @@ ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH332521", SYMLINK+="di
 
 # D0                                         
 ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH440830", SYMLINK+="disk/by-sticker/D0"
-ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH440830", SYMLINK+="disk/by-sticker/D0-part%n
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH440830", SYMLINK+="disk/by-sticker/D0-part%n"
 
 # D1
 ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1057843", SYMLINK+="disk/by-sticker/D1"
