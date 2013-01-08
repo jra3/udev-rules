@@ -1,0 +1,95 @@
+# A0
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH567237", SYMLINK+="disk/by-sticker/A0"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH567237", SYMLINK+="disk/by-sticker/A0-part%n"
+
+# A1
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH573660", SYMLINK+="disk/by-sticker/A1"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH573660", SYMLINK+="disk/by-sticker/A1-part%n"
+
+# A2
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH537724", SYMLINK+="disk/by-sticker/A2"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH537724", SYMLINK+="disk/by-sticker/A2-part%n"
+
+# A3
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH291583", SYMLINK+="disk/by-sticker/A3"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH291583", SYMLINK+="disk/by-sticker/A3-part%n"
+
+# A4
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH427422", SYMLINK+="disk/by-sticker/A4"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH427422", SYMLINK+="disk/by-sticker/A4-part%n"
+
+# A5
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH565723", SYMLINK+="disk/by-sticker/A5"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH565723", SYMLINK+="disk/by-sticker/A5-part%n"
+
+# B0
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH514386", SYMLINK+="disk/by-sticker/B0"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH514386", SYMLINK+="disk/by-sticker/B0-part%n"
+
+# B1 
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH470495", SYMLINK+="disk/by-sticker/B1"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH470495", SYMLINK+="disk/by-sticker/B1-part%n"
+
+# B2
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH483994", SYMLINK+="disk/by-sticker/B2"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH483994", SYMLINK+="disk/by-sticker/B2-part%n"
+
+# B3
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH441005", SYMLINK+="disk/by-sticker/B3"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH441005", SYMLINK+="disk/by-sticker/B3-part%n"
+
+# B4
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH572918", SYMLINK+="disk/by-sticker/B4"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH572918", SYMLINK+="disk/by-sticker/B4-part%n"
+
+# B5
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAJ004443", SYMLINK+="disk/by-sticker/B5"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAJ004443", SYMLINK+="disk/by-sticker/B5-part%n"
+
+# C0
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH473558", SYMLINK+="disk/by-sticker/C0"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH473558", SYMLINK+="disk/by-sticker/C0-part%n"
+
+# C1
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH480625", SYMLINK+="disk/by-sticker/C1"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH480625", SYMLINK+="disk/by-sticker/C1-part%n"
+
+# C2
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH484094", SYMLINK+="disk/by-sticker/C2"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH484094", SYMLINK+="disk/by-sticker/C2-part%n"
+
+# C3
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH406329", SYMLINK+="disk/by-sticker/C3"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH406329", SYMLINK+="disk/by-sticker/C3-part%n"
+
+# C4
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH441728", SYMLINK+="disk/by-sticker/C4"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH441728", SYMLINK+="disk/by-sticker/C4-part%n"
+
+# C5
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH332521", SYMLINK+="disk/by-sticker/C5"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH332521", SYMLINK+="disk/by-sticker/C5-part%n"
+
+# D0                                         
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH440830", SYMLINK+="disk/by-sticker/D0"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WCAZAH440830", SYMLINK+="disk/by-sticker/D0-part%n
+
+# D1
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1057843", SYMLINK+="disk/by-sticker/D1"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1057843", SYMLINK+="disk/by-sticker/D1-part%n"
+
+# D2
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA0596301", SYMLINK+="disk/by-sticker/D2"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WMAZA0596301", SYMLINK+="disk/by-sticker/D2-part%n"
+
+# D3
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1037718", SYMLINK+="disk/by-sticker/D3"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1037718", SYMLINK+="disk/by-sticker/D3-part%n"
+
+# D4
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA0970346", SYMLINK+="disk/by-sticker/D4"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WMAZA0970346", SYMLINK+="disk/by-sticker/D4-part%n"
+
+# D5
+ENV{DEVTYPE}=="disk", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1057650", SYMLINK+="disk/by-sticker/D5"
+ENV{DEVTYPE}=="partition", ENV{ID_SERIAL_SHORT}=="WD-WMAZA1057650", SYMLINK+="disk/by-sticker/D5-part%n"
